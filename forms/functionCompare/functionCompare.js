@@ -1,4 +1,7 @@
+<<<<<<< Updated upstream
 /*
+=======
+>>>>>>> Stashed changes
 //Declare Vatiables
 let password1 = prompt("Enter your password")
 let password2 = prompt("Enter your password again")
@@ -17,4 +20,8 @@ return similar
 
 //Log the function for the developer to see
 console.log(`${password1} and ${password2} is ${compare(password1, password2)}`)
+<<<<<<< Updated upstream
 */
+=======
+
+>>>>>>> Stashed changes

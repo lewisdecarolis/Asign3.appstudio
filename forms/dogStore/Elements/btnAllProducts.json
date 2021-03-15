@@ -29,7 +29,11 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnAllProducts",
+<<<<<<< Updated upstream
   "left": 139,
+=======
+  "left": 63,
+>>>>>>> Stashed changes
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +64,11 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
+<<<<<<< Updated upstream
   "top": 381,
+=======
+  "top": 343,
+>>>>>>> Stashed changes
   "value": "Click for All Products",
   "width": "auto"
 }

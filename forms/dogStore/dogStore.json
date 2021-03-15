@@ -61,7 +61,11 @@
         "forms",
         "dogStore",
         "Elements",
+<<<<<<< Updated upstream
         "btnWishList.json"
+=======
+        "inptAll.json"
+>>>>>>> Stashed changes
       ]
     }
   ],

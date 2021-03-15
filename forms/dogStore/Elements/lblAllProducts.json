@@ -1,7 +1,11 @@
 {
   "!type": "Label_bs4",
   "appearance": "primary",
+<<<<<<< Updated upstream
   "backgroundColor": "",
+=======
+  "backgroundColor": "black",
+>>>>>>> Stashed changes
   "borderRadius": "0",
   "bottom": "auto",
   "cached_js": "",
@@ -15,7 +19,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
+<<<<<<< Updated upstream
   "height": 262,
+=======
+  "height": 53,
+>>>>>>> Stashed changes
   "hidden": "",
   "id": "lblAllProducts",
   "labelStyle": "text",
@@ -44,5 +52,9 @@
   "style": "",
   "top": 15,
   "value": "",
+<<<<<<< Updated upstream
   "width": 295
+=======
+  "width": 167
+>>>>>>> Stashed changes
 }

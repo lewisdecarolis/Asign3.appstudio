@@ -29,15 +29,11 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "inptProduct",
+  "id": "inptAll",
   "inputType": "text",
   "inputmode": "",
-<<<<<<< Updated upstream
-  "left": 9,
-=======
-  "left": 10,
->>>>>>> Stashed changes
-  "leftText": "Enter product",
+  "left": 21,
+  "leftText": "",
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -54,7 +50,7 @@
   "oncut": "",
   "onfocusin": "",
   "onfocusout": "",
-  "oninput": "",
+  "oninput": "inptAll.oninput()",
   "onkeypress": "",
   "onkeyup": "",
   "onmousedown": "",
@@ -71,7 +67,7 @@
   "pLeft": "",
   "pRight": "",
   "pTop": "",
-  "placeholder": "",
+  "placeholder": "Enter text here",
   "popBody": "Body",
   "popClose": "hover",
   "popPosition": "",
@@ -86,11 +82,7 @@
   "spellcheck": "true",
   "step": "",
   "style": "",
-<<<<<<< Updated upstream
-  "top": 281,
-=======
-  "top": 182,
->>>>>>> Stashed changes
+  "top": 230,
   "validation": "",
   "value": "",
   "valueCols": 10,

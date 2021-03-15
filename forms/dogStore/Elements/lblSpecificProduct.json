@@ -1,7 +1,11 @@
 {
   "!type": "Label_bs4",
   "appearance": "primary",
+<<<<<<< Updated upstream
   "backgroundColor": "",
+=======
+  "backgroundColor": "red",
+>>>>>>> Stashed changes
   "borderRadius": "0",
   "bottom": "auto",
   "cached_js": "",
@@ -19,7 +23,11 @@
   "hidden": "",
   "id": "lblSpecificProduct",
   "labelStyle": "text",
+<<<<<<< Updated upstream
   "left": 12,
+=======
+  "left": 26,
+>>>>>>> Stashed changes
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +50,13 @@
   "right": "auto",
   "script": "",
   "style": "",
+<<<<<<< Updated upstream
   "top": 331,
   "value": "",
   "width": 304
+=======
+  "top": 84,
+  "value": "",
+  "width": 158
+>>>>>>> Stashed changes
 }

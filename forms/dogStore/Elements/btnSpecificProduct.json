@@ -29,13 +29,21 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnSpecificProduct",
+<<<<<<< Updated upstream
   "left": 46,
+=======
+  "left": 45,
+>>>>>>> Stashed changes
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
+<<<<<<< Updated upstream
   "onclick": "btnSpecificProduct.onclick()",
+=======
+  "onclick": "",
+>>>>>>> Stashed changes
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +68,12 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
+<<<<<<< Updated upstream
   "top": 423,
   "value": "Click to add to Wish List",
+=======
+  "top": 398,
+  "value": "Click for Specific Product",
+>>>>>>> Stashed changes
   "width": "auto"
 }

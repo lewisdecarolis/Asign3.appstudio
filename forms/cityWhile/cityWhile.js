@@ -10,6 +10,7 @@ while (doneWithCities == false) {
     i++
     doneWithCities = confirm ("Are you done entering cities?")    
   }    
+<<<<<<< Updated upstream
 
 //Declares new array
 let allCities = cities
@@ -17,4 +18,7 @@ let allCities = cities
 //Loop to log cities on seperate lines
 for(i = 0; i < allCities.length; i++)
 console.log(allCities[i])
+=======
+      console.log(cities[i])
+>>>>>>> Stashed changes
 */

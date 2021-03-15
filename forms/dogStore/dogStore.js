@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 /*
 //Declares all variables
 let dogProductPrice = ["Crocheted Dog Toy: $10.00", "Slow Feeder Bowl: $14.00 ", "Pawz Grey Treat Jar: $20.00", "Blue Sweet Dreams Thermal Pajamas: $30.00 ", "Checker Chewy Vuiton Bowl: $32.00 ", "Red Heart Sweater Dress: $27.00 ", "Velvet Hair Bow - Sun Kissed: $12.00", "Into the Wild Leash: $27.00"]
@@ -24,4 +25,11 @@ btnWishList.onclick=function(){
     doneWishList = confirm ("Are you done entering products?")
 }
   lblSpecificProduct.value = wishList[i]
+=======
+let dogProductPrice = ["Crocheted Dog Toy, $10.00", "Slow Feeder Bowl, $14.00 ", "Pawz Grey Treat Jar, $20.00", "Blue Sweet Dreams Thermal Pajamas, $30.00 ", "Checker Chewy Vuiton Bowl, $32.00 ", "Red Heart Sweater Dress, $27.00 ", "Velvet Hair Bow - Sun Kissed, $12.00", "Into the Wild Leash, $27.00"]
+
+
+btnAllProducts.onclick=function(){
+  
+>>>>>>> Stashed changes
 }
